@@ -1,7 +1,7 @@
 # battle_tank_multiplayer
 A simple battle tank multiplayer by Mai Le Xuan Anh<br>
+Only supports on <b>Window</b> and <b>Linux</b>
 Require:<br>
-  <ul>Supports only on <b>Window</b> and <b>Linux</b></ul>
   <ul>python 3.5+</ul>
   <ul>tkinter with tcl.version 8.6</ul>
   <ul>pygame v1.9.2</ul>
