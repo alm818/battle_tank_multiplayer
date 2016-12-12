@@ -1,0 +1,2 @@
+./dist/linux_version filter=lfs diff=lfs merge=lfs -text
+./dist/window_version.exe filter=lfs diff=lfs merge=lfs -text
