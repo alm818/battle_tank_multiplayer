@@ -7,4 +7,3 @@ Require:<br>
   <ul>pygame v1.9.2</ul>
 Run:<br>
   <ul>$ python main.py<br>
-  or using the dist (window_version or linux_version)</ul>
